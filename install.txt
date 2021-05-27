@@ -1,0 +1,12 @@
+---EXTERNAL---
+CUDA Toolkit v10.1 +cudart64.dll and cublas64_100.dll from v10.0 copied to bin folder
+cuDNN
+cmake
+visual studio c++ compiler 2019
+---PYTHON LIBRARIES---
+dlib
+opencv-python
+NumPy
+tensorflow-gpu
+PIL
+h5py

@@ -1,0 +1,16 @@
+{
+  "name": "face-scrapper",
+  "version": "1.0.0",
+  "description": "AI generated faces downloader (uses thisfacedoesnotexist)",
+  "main": "app.js",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "face-scrapper"
+  ],
+  "author": "Jakub Jaruszewski",
+  "license": "MIT"
+}
